@@ -232,6 +232,13 @@
 }
 
 
+// Disabled and highlighted dates.
+.picker__day--highlighted.picker__day--disabled,
+.picker__day--highlighted.picker__day--disabled:hover {
+    background: @disabled-highlighted-things-bg;
+}
+
+
 /**
  * The footer containing the "today" and "clear" buttons.
  */
