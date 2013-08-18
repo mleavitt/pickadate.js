@@ -235,7 +235,7 @@
 // Disabled and highlighted dates.
 .picker__day--highlighted.picker__day--disabled,
 .picker__day--highlighted.picker__day--disabled:hover {
-    background: @disabled-highlighted-things-bg;
+    background: $disabled-highlighted-things-bg;
 }
 
 
